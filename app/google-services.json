@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8044597418",
+    "project_id": "delivery-tracker-14ed2",
+    "storage_bucket": "delivery-tracker-14ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8044597418:android:64e43e39297e44903a40d3",
+        "android_client_info": {
+          "package_name": "com.samar.deliverytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hcveBxtMq98y1X8ydg8tCyiwzG0xm8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
